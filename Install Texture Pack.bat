@@ -26,7 +26,8 @@ echo Installing...
 goto installfolder
 
 :installfolder
-xcopy /I "Rosources Texture Pack" "%appdata%\.minecraft\resourcepacks\Rosources Texture Pack" /V /E /H /K>nul
+echo.
+xcopy /I "Rosources Texture Pack" "%appdata%\.minecraft\resourcepacks\Rosources Texture Pack" /E /V /H /K
 echo.
 echo Finished installing Rosources texture pack
 goto finish
