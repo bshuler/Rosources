@@ -7,6 +7,10 @@ The following is a set of guidelines for contributing to the source code of Roso
 
 One way to edit the textures is to use [Minecraft Texture Pack Studio](https://sourceforge.net/projects/minecrafttexturestudio/) but there is no regulation for which one you should use.
 
+## How Do I Test The Texture Pack?
+
+One way to test Rosources is to use [QMagnet's Test Map](https://www.planetminecraft.com/project/qmagnets-texture-pack-test-map-13w03a/) which you can download [here](https://www.planetminecraft.com/project/qmagnets-texture-pack-test-map-13w03a/download/worldsave/) but there is no regulation for which one you should use.
+
 ### How Do I Submit A (Good) Bug Report?
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
